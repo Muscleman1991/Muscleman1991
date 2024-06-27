@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aishwaryaditya Jha</h1>
-<h3 align="center">I am an aspiring computer science undergrad from India.</h3>
+<h3 align="center">I am a SRE at NetcoreUnbxd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muscleman1991&label=Profile%20views&color=0e75b6&style=flat" alt="muscleman1991" /> </p>
 
-- 💬 Ask me about **Deep learning, NLP**
+- 💬 Ask me about **DevOps, Containerisation, Kubernetes, AWS, GCP, Deep learning, NLP**
 
 - 📫 How to reach me **aishwaryadityajha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CxHOopvwGDhfF79tOLHDDsw7tZIKEHID/view?usp=sharing](https://drive.google.com/file/d/1CxHOopvwGDhfF79tOLHDDsw7tZIKEHID/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fk5LvLMmCCJEZBGLnCBytsbu8sFPyrks/view?usp=sharing](https://drive.google.com/file/d/1CxHOopvwGDhfF79tOLHDDsw7tZIKEHID/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
